@@ -58,13 +58,6 @@ Hardware design and schematic development.
 
 Physical PCB fabrication and hardware validation have not been completed.
 
-Repository Structure
-
-KiCad/ – Circuit schematic and PCB design files
-
-Documentation/ – Design notes and technical documentation
-
-Images/ – Schematic and PCB layout previews
 
 Disclaimer
 
