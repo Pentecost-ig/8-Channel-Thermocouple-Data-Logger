@@ -1,0 +1,28 @@
+ERC report (2026-11-18T21:13:30, Encoding UTF8)
+Report includes: Errors
+
+***** Sheet /
+
+***** Sheet /Thermocouple_1/
+
+***** Sheet /Thermocouple_2/
+
+***** Sheet /Thermocouple_3/
+
+***** Sheet /Thermocouple_4/
+
+***** Sheet /Thermocouple_5/
+
+***** Sheet /Thermocouple_6/
+
+***** Sheet /Thermocouple_7/
+
+***** Sheet /Thermocouple_8/
+
+ ** ERC messages: 0  Errors 0  Warnings 0
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters
